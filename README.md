@@ -1,6 +1,7 @@
 # 🎯 Smart Face Detection with Distance Estimation
 
 Real-time face detection system using **OpenCV** that not only detects faces but also estimates the **distance from the camera** and provides smart feedback.
+check it out below..
 
 ---
 
